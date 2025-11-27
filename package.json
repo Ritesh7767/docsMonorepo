@@ -4,13 +4,20 @@
   "description": "",
   "main": "index.js",
   "workspaces": [
-    "backend",
-    "sites/*"
-  ], 
+    "backend"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritesh7767/docsMonorepo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ritesh7767/docsMonorepo/issues"
+  },
+  "homepage": "https://github.com/Ritesh7767/docsMonorepo#readme"
 }
