@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Ritesh7767/docsMonorepo/issues"
   },
-  "homepage": "https://github.com/Ritesh7767/docsMonorepo#readme"
+  "homepage": "https://github.com/Ritesh7767/docsMonorepo#readme",
+  "dependencies": {
+    "axios": "^1.13.2"
+  }
 }
